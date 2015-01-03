@@ -1,0 +1,35 @@
+{
+  "name": "cometjs",
+  "version": "1.0.0",
+  "description": "Comet.js is a scaffold for Meteor.js",
+  "main": "comet.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/girassolbit/cometjs.git"
+  },
+  "keywords": [
+    "scaffold",
+    "meteorjs",
+    "meteor",
+    "generator",
+    "structure"
+  ],
+  "bin": {
+    "comet": "bin/comet"
+  },
+  "dependencies": {
+    "pretty-log": "^0.1.0"
+  },
+  "engines": {
+    "node": "*"
+  },
+  "author": "Charleno Pires",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/girassolbit/cometjs/issues"
+  },
+  "homepage": "https://github.com/girassolbit/cometjs"
+}
